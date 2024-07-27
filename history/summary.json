@@ -22,19 +22,19 @@
     "url": "https://img.chillcicada.com",
     "icon": "https://icons.duckduckgo.com/ip3/img.chillcicada.com.ico",
     "slug": "img",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1350,
-    "timeDay": 1625,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.73%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 1352,
+    "timeDay": 1513,
     "timeWeek": 1395,
-    "timeMonth": 1352,
-    "timeYear": 1350,
+    "timeMonth": 1354,
+    "timeYear": 1352,
     "dailyMinutesDown": {
-      "2024-07-27": 0
+      "2024-07-27": 4
     }
   }
 ]
