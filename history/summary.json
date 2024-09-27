@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 387,
-    "timeDay": 373,
-    "timeWeek": 260,
-    "timeMonth": 268,
-    "timeYear": 387,
+    "time": 383,
+    "timeDay": 182,
+    "timeWeek": 224,
+    "timeMonth": 266,
+    "timeYear": 383,
     "dailyMinutesDown": {}
   },
   {
@@ -28,13 +28,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.83%",
-    "time": 1361,
-    "timeDay": 1432,
-    "timeWeek": 1358,
-    "timeMonth": 1377,
-    "timeYear": 1361,
+    "time": 1363,
+    "timeDay": 1425,
+    "timeWeek": 1363,
+    "timeMonth": 1386,
+    "timeYear": 1363,
     "dailyMinutesDown": {
       "2024-08-01": 241
     }
+  },
+  {
+    "name": "AI",
+    "url": "https://ai.chillcicada.com",
+    "icon": "https://icons.duckduckgo.com/ip3/ai.chillcicada.com.ico",
+    "slug": "ai",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 2907,
+    "timeDay": 2907,
+    "timeWeek": 2907,
+    "timeMonth": 2907,
+    "timeYear": 2907,
+    "dailyMinutesDown": {}
   }
 ]
