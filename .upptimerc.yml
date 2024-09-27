@@ -7,6 +7,8 @@ sites:
     url: https://chillcicada.com
   - name: Img
     url: https://img.chillcicada.com
+  - name: AI
+    url: https://ai.chillcicada.com
   # - name: IPv6 test
   #   url: forwardemail.net
   #   port: 80
