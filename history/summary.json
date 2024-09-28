@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 383,
-    "timeDay": 182,
-    "timeWeek": 224,
-    "timeMonth": 266,
-    "timeYear": 383,
+    "time": 382,
+    "timeDay": 218,
+    "timeWeek": 230,
+    "timeMonth": 265,
+    "timeYear": 382,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/img.chillcicada.com.ico",
     "slug": "img",
     "status": "up",
-    "uptime": "99.83%",
+    "uptime": "99.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.83%",
-    "time": 1363,
-    "timeDay": 1425,
-    "timeWeek": 1363,
-    "timeMonth": 1386,
-    "timeYear": 1363,
+    "uptimeYear": "99.84%",
+    "time": 1362,
+    "timeDay": 1394,
+    "timeWeek": 1370,
+    "timeMonth": 1387,
+    "timeYear": 1362,
     "dailyMinutesDown": {
       "2024-08-01": 241
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2907,
-    "timeDay": 2907,
-    "timeWeek": 2907,
-    "timeMonth": 2907,
-    "timeYear": 2907,
+    "time": 2787,
+    "timeDay": 2787,
+    "timeWeek": 2787,
+    "timeMonth": 2787,
+    "timeYear": 2787,
     "dailyMinutesDown": {}
   }
 ]
