@@ -4,9 +4,9 @@
     "url": "https://chillcicada.com",
     "icon": "https://icons.duckduckgo.com/ip3/chillcicada.com.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 207,
     "timeMonth": 254,
     "timeYear": 359,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-22": 0
+    }
   },
   {
     "name": "Img",
@@ -43,7 +45,7 @@
     "url": "https://ai.chillcicada.com",
     "icon": "https://icons.duckduckgo.com/ip3/ai.chillcicada.com.ico",
     "slug": "ai",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -54,6 +56,8 @@
     "timeWeek": 2391,
     "timeMonth": 2405,
     "timeYear": 2405,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-22": 0
+    }
   }
 ]
