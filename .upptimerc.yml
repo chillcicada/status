@@ -9,6 +9,8 @@ sites:
     url: https://img.chillcicada.com
   - name: AI
     url: https://ai.chillcicada.com
+  - name: Zotero WebDAV
+    url: https://zotero.chillcicada.com
   # - name: IPv6 test
   #   url: forwardemail.net
   #   port: 80
