@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 316,
-    "timeDay": 140,
-    "timeWeek": 220,
-    "timeMonth": 185,
-    "timeYear": 316,
+    "time": 314,
+    "timeDay": 126,
+    "timeWeek": 207,
+    "timeMonth": 183,
+    "timeYear": 314,
     "dailyMinutesDown": {
       "2024-10-22": 18
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.72%",
     "time": 1355,
-    "timeDay": 1261,
-    "timeWeek": 1317,
-    "timeMonth": 1280,
+    "timeDay": 1280,
+    "timeWeek": 1318,
+    "timeMonth": 1282,
     "timeYear": 1355,
     "dailyMinutesDown": {
       "2024-11-29": 90,
@@ -52,13 +52,52 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 2350,
-    "timeDay": 2525,
-    "timeWeek": 2286,
-    "timeMonth": 2345,
-    "timeYear": 2350,
+    "time": 2352,
+    "timeDay": 2510,
+    "timeWeek": 2312,
+    "timeMonth": 2350,
+    "timeYear": 2352,
     "dailyMinutesDown": {
       "2024-10-22": 17
+    }
+  },
+  {
+    "name": "Panel",
+    "url": "https://panel.chillcicada.com",
+    "icon": "https://icons.duckduckgo.com/ip3/panel.chillcicada.com.ico",
+    "slug": "panel",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 895,
+    "timeDay": 895,
+    "timeWeek": 895,
+    "timeMonth": 895,
+    "timeYear": 895,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Zotero WebDAV",
+    "url": "https://zotero.chillcicada.com",
+    "icon": "https://icons.duckduckgo.com/ip3/zotero.chillcicada.com.ico",
+    "slug": "zotero-web-dav",
+    "status": "down",
+    "uptime": "0.00%",
+    "uptimeDay": "8.45%",
+    "uptimeWeek": "8.45%",
+    "uptimeMonth": "8.45%",
+    "uptimeYear": "0.00%",
+    "time": 872,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 872,
+    "dailyMinutesDown": {
+      "2024-11-29": 0,
+      "2024-10-25": 88
     }
   }
 ]
