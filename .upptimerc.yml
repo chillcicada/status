@@ -13,7 +13,8 @@ sites:
     url: https://panel.chillcicada.com
   - name: Zotero WebDAV
     url: https://zotero.chillcicada.com
-    check: "tcp-ping"
+    expectedStatusCodes:
+      - 401
 
 assignees:
   - ChillCicada
