@@ -9,14 +9,11 @@ sites:
     url: https://img.chillcicada.com
   - name: AI
     url: https://ai.chillcicada.com
-  # 401 Unauthorized
-  # - name: Zotero WebDAV
-  #   url: https://zotero.chillcicada.com
-  # - name: IPv6 test
-  #   url: forwardemail.net
-  #   port: 80
-  #   check: "tcp-ping"
-  #   ipv6: true
+  - name: Panel
+    url: https://panel.chillcicada.com
+  - name: Zotero WebDAV
+    url: https://zotero.chillcicada.com
+    check: "tcp-ping"
 
 assignees:
   - ChillCicada
