@@ -76,7 +76,7 @@
     "url": "https://zotero.chillcicada.com",
     "icon": "https://icons.duckduckgo.com/ip3/zotero.chillcicada.com.ico",
     "slug": "service-zotero-web-dav",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -87,7 +87,9 @@
     "timeWeek": 820,
     "timeMonth": 820,
     "timeYear": 820,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-23": 0
+    }
   },
   {
     "name": "Service - My Prs",
