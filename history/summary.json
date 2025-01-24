@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 298,
-    "timeDay": 230,
-    "timeWeek": 298,
-    "timeMonth": 298,
-    "timeYear": 298,
+    "time": 283,
+    "timeDay": 164,
+    "timeWeek": 283,
+    "timeMonth": 283,
+    "timeYear": 283,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1282,
-    "timeDay": 1326,
-    "timeWeek": 1282,
-    "timeMonth": 1282,
-    "timeYear": 1282,
+    "time": 1287,
+    "timeDay": 1330,
+    "timeWeek": 1287,
+    "timeMonth": 1287,
+    "timeYear": 1287,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3210,
-    "timeDay": 1485,
-    "timeWeek": 3210,
-    "timeMonth": 3210,
-    "timeYear": 3210,
+    "time": 3011,
+    "timeDay": 1424,
+    "timeWeek": 3011,
+    "timeMonth": 3011,
+    "timeYear": 3011,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 837,
-    "timeDay": 853,
-    "timeWeek": 837,
-    "timeMonth": 837,
-    "timeYear": 837,
+    "time": 831,
+    "timeDay": 783,
+    "timeWeek": 831,
+    "timeMonth": 831,
+    "timeYear": 831,
     "dailyMinutesDown": {}
   },
   {
@@ -77,18 +77,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/zotero.chillcicada.com.ico",
     "slug": "service-zotero-web-dav",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "89.36%",
+    "uptimeDay": "26.15%",
+    "uptimeWeek": "89.36%",
+    "uptimeMonth": "89.36%",
+    "uptimeYear": "89.36%",
     "time": 820,
-    "timeDay": 873,
+    "timeDay": 0,
     "timeWeek": 820,
     "timeMonth": 820,
     "timeYear": 820,
     "dailyMinutesDown": {
-      "2025-01-23": 0
+      "2025-01-24": 98,
+      "2025-01-23": 965
     }
   },
   {
@@ -102,11 +103,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 634,
-    "timeDay": 678,
-    "timeWeek": 634,
-    "timeMonth": 634,
-    "timeYear": 634,
+    "time": 607,
+    "timeDay": 392,
+    "timeWeek": 607,
+    "timeMonth": 607,
+    "timeYear": 607,
     "dailyMinutesDown": {}
   }
 ]
