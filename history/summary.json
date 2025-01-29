@@ -77,18 +77,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/zotero.chillcicada.com.ico",
     "slug": "service-zotero-web-dav",
     "status": "up",
-    "uptime": "88.75%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "80.93%",
-    "uptimeMonth": "88.75%",
-    "uptimeYear": "88.75%",
+    "uptime": "88.85%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "80.98%",
+    "uptimeMonth": "88.85%",
+    "uptimeYear": "88.85%",
     "time": 844,
     "timeDay": 937,
     "timeWeek": 872,
     "timeMonth": 844,
     "timeYear": 844,
     "dailyMinutesDown": {
-      "2025-01-28": 5,
       "2025-01-24": 952,
       "2025-01-23": 965
     }
