@@ -11,11 +11,11 @@ sites:
     url: https://ai.chillcicada.com
   - name: Service - Panel
     url: https://panel.chillcicada.com
-  - name: Service - Zotero WebDAV
-    url: https://zotero.chillcicada.com
+  - name: Service - WebDAV
+    url: https://webdav.chillcicada.com
     expectedStatusCodes:
       - 401
-  - name: Service - My Prs
+  - name: Service - Prs
     url: https://prs.chillcicada.com
 
 assignees:
