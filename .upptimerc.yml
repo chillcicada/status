@@ -1,14 +1,11 @@
-# Change these first
-owner: chillcicada # Your GitHub organization or username, where this repository lives
-repo: status # The name of this repository
+owner: chillcicada
+repo: status
 
 sites:
   - name: Service - Blog
     url: https://chillcicada.com
   - name: Service - Img
     url: https://img.chillcicada.com
-  - name: Service - AI
-    url: https://ai.chillcicada.com
   - name: Service - Panel
     url: https://panel.chillcicada.com
   - name: Service - WebDAV
@@ -22,11 +19,7 @@ assignees:
   - chillcicada
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.chillcicada.com
-  # baseUrl: /your-repo-name
-  # TODO: change logo
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Status
   introTitle: "Status | ChillCicada"
@@ -36,6 +29,3 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/chillcicada/status
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
