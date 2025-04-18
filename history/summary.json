@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/img.chillcicada.com.ico",
     "slug": "service-img",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.50%",
+    "uptimeDay": "54.67%",
+    "uptimeWeek": "93.52%",
+    "uptimeMonth": "98.51%",
+    "uptimeYear": "99.50%",
     "time": 1409,
     "timeDay": 1640,
     "timeWeek": 1655,
     "timeMonth": 1440,
     "timeYear": 1409,
     "dailyMinutesDown": {
-      "2025-04-18": 1
+      "2025-04-18": 653
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://panel.chillcicada.com",
     "icon": "https://icons.duckduckgo.com/ip3/panel.chillcicada.com.ico",
     "slug": "service-panel",
-    "status": "down",
-    "uptime": "99.90%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.90%",
-    "time": 878,
-    "timeDay": 1101,
-    "timeWeek": 948,
-    "timeMonth": 905,
-    "timeYear": 878,
+    "status": "up",
+    "uptime": "99.40%",
+    "uptimeDay": "54.71%",
+    "uptimeWeek": "93.53%",
+    "uptimeMonth": "98.51%",
+    "uptimeYear": "99.40%",
+    "time": 880,
+    "timeDay": 1082,
+    "timeWeek": 962,
+    "timeMonth": 910,
+    "timeYear": 880,
     "dailyMinutesDown": {
-      "2025-04-18": 1,
+      "2025-04-18": 652,
       "2025-02-27": 134
     }
   },
@@ -64,18 +64,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/webdav.chillcicada.com.ico",
     "slug": "service-web-dav",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "95.97%",
+    "uptimeDay": "54.74%",
+    "uptimeWeek": "93.53%",
+    "uptimeMonth": "95.97%",
+    "uptimeYear": "95.97%",
     "time": 939,
     "timeDay": 1067,
     "timeWeek": 1007,
     "timeMonth": 939,
     "timeYear": 939,
     "dailyMinutesDown": {
-      "2025-04-18": 0
+      "2025-04-18": 652
     }
   },
   {
