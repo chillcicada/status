@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.97%",
-    "time": 310,
-    "timeDay": 241,
-    "timeWeek": 240,
-    "timeMonth": 290,
-    "timeYear": 310,
+    "time": 308,
+    "timeDay": 109,
+    "timeWeek": 204,
+    "timeMonth": 287,
+    "timeYear": 308,
     "dailyMinutesDown": {
       "2025-04-20": 45
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "98.47%",
     "uptimeYear": "99.55%",
     "time": 1403,
-    "timeDay": 1458,
-    "timeWeek": 1345,
-    "timeMonth": 1425,
+    "timeDay": 1365,
+    "timeWeek": 1326,
+    "timeMonth": 1424,
     "timeYear": 1403,
     "dailyMinutesDown": {
       "2025-04-18": 668
@@ -51,8 +51,8 @@
     "uptimeMonth": "98.51%",
     "uptimeYear": "99.47%",
     "time": 889,
-    "timeDay": 889,
-    "timeWeek": 928,
+    "timeDay": 891,
+    "timeWeek": 880,
     "timeMonth": 942,
     "timeYear": 889,
     "dailyMinutesDown": {
@@ -66,16 +66,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/webdav.chillcicada.com.ico",
     "slug": "service-web-dav",
     "status": "up",
-    "uptime": "97.87%",
+    "uptime": "97.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.87%",
-    "uptimeYear": "97.87%",
-    "time": 961,
-    "timeDay": 757,
-    "timeWeek": 904,
-    "timeMonth": 961,
-    "timeYear": 961,
+    "uptimeMonth": "97.97%",
+    "uptimeYear": "97.97%",
+    "time": 959,
+    "timeDay": 917,
+    "timeWeek": 839,
+    "timeMonth": 959,
+    "timeYear": 959,
     "dailyMinutesDown": {
       "2025-04-18": 694
     }
@@ -91,11 +91,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 634,
-    "timeDay": 171,
-    "timeWeek": 463,
-    "timeMonth": 634,
-    "timeYear": 634,
+    "time": 628,
+    "timeDay": 482,
+    "timeWeek": 420,
+    "timeMonth": 628,
+    "timeYear": 628,
     "dailyMinutesDown": {}
   }
 ]
