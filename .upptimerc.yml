@@ -6,8 +6,6 @@ sites:
     url: https://chillcicada.com
   - name: Service - Img
     url: https://img.chillcicada.com
-  - name: Service - Panel
-    url: https://panel.chillcicada.com
   - name: Service - WebDAV
     url: https://webdav.chillcicada.com
     expectedStatusCodes:
