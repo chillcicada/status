@@ -24,9 +24,9 @@
     "url": "https://img.chillcicada.com",
     "icon": "https://icons.duckduckgo.com/ip3/img.chillcicada.com.ico",
     "slug": "service-img",
-    "status": "up",
+    "status": "down",
     "uptime": "99.58%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.47%",
     "uptimeYear": "99.58%",
@@ -36,6 +36,7 @@
     "timeMonth": 1406,
     "timeYear": 1398,
     "dailyMinutesDown": {
+      "2025-05-08": 0,
       "2025-04-18": 668
     }
   },
@@ -44,9 +45,9 @@
     "url": "https://panel.chillcicada.com",
     "icon": "https://icons.duckduckgo.com/ip3/panel.chillcicada.com.ico",
     "slug": "service-panel",
-    "status": "up",
+    "status": "down",
     "uptime": "99.51%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.51%",
     "uptimeYear": "99.51%",
@@ -56,6 +57,7 @@
     "timeMonth": 935,
     "timeYear": 891,
     "dailyMinutesDown": {
+      "2025-05-08": 0,
       "2025-04-18": 652,
       "2025-02-27": 134
     }
@@ -65,18 +67,19 @@
     "url": "https://webdav.chillcicada.com",
     "icon": "https://icons.duckduckgo.com/ip3/webdav.chillcicada.com.ico",
     "slug": "service-web-dav",
-    "status": "up",
-    "uptime": "98.43%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "98.44%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.42%",
-    "uptimeYear": "98.43%",
+    "uptimeYear": "98.44%",
     "time": 943,
     "timeDay": 815,
     "timeWeek": 881,
     "timeMonth": 948,
     "timeYear": 943,
     "dailyMinutesDown": {
+      "2025-05-08": 0,
       "2025-04-18": 694
     }
   },
